@@ -6,7 +6,7 @@
   <img src="LILITH_VISITS_MOLOCH.png" alt="Lilith slides the attacker down the rainbow toward Moloch" width="800"/>
 </p>
 
-**AEGIS LILITH** is a post-quantum cryptographic **sovereignty oracle** built on the projective geometry PG(11,4). Beast 7 of 10 in the AEGIS lineage. She wraps [FENRIR v4](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V14-FENRIR-THE-VIKING-WOLF) (8 Mordidas + Blood Eagle + Viking Frost + Aikido) with **8 Perversiones** — mechanisms modeled on general relativity that don't just corrupt the attacker's data, but **curve the algebraic spacetime in which they compute.**
+**AEGIS LILITH** is a post-quantum cryptographic **sovereignty oracle** built on the projective geometry PG(11,4). Beast 7 of 11 in the AEGIS lineage. She wraps [FENRIR v4](https://github.com/tretoef-estrella/AEGIS-The-Crystal-Labyrinth-V14-FENRIR-THE-VIKING-WOLF) (8 Mordidas + Blood Eagle + Viking Frost + Aikido) with **8 Perversiones** — mechanisms modeled on general relativity that don't just corrupt the attacker's data, but **curve the algebraic spacetime in which they compute.**
 
 FENRIR bites. LILITH **seduces.** The bitten hand knows it has been bitten. The seduced mind does not know it has been taken.
 
@@ -121,18 +121,32 @@ Full report: [SEARCH_REPORT_22_6_13.md](SEARCH_REPORT_22_6_13.md)
 
 ---
 
-## Performance Evolution
+## The Beast Chain
 
 ```
-Beast 1 — Leviathan:   prototype (Phase I: Base)
-Beast 2 — Kraken:      5.5M points, gap=0.0084, 10 attacks, 3.4s
-Beast 3 — Gorgon v16:  7 venoms, gap=0.0013, 18 attacks, 5.7s
-Beast 4 — Azazel v5:   7 Hells, 2.3s (Phase II: Petrification)
-Beast 5 — Acheron v2:  12 Desiccations, epoch chain, 3.0s (Phase III: Drain)
-Beast 6 — Fenrir v4:   8 Mordidas + Blood Eagle + Frost, 4.4s
-Beast 7 — Lilith v4:   8 Perversiones + Knuth semifield + Moloch Token, 5.0s  ← YOU ARE HERE
-Beast 8 — Moloch:      ████████████████ COMING
+Beast  1 — LEVIATHAN   prototype, Phase I: Base
+Beast  2 — KRAKEN      5.5M points, gap=0.0084, 10 attacks, 3.4s
+Beast  3 — GORGON      7 venoms, gap=0.0013, 18 attacks, 5.7s
+Beast  4 — AZAZEL      7 Hells, 2.3s — Phase II: Petrification
+Beast  5 — ACHERON     12 Desiccations, epoch chain, 3.0s — Phase III: Drain
+Beast  6 — FENRIR      8 Mordidas + Blood Eagle + Frost, 4.4s
+Beast  7 — LILITH      8 Perversiones + Knuth semifield + Moloch Token, 5.0s   ← YOU ARE HERE
+─────────────────────────────────────────────────────────────────────────────
+Beast  8 — MOLOCH      ⬛ PRIVATE — The Entropy Devourer. Γ = 7/3.
+                        11 Devoraciones. What Lilith slides you toward.
+Beast  9 — MEPHISTO    ⬛ PRIVATE — The Crystal Spitter. Λ = 223/225.
+                        9 Cristalizaciones. What Moloch feeds.
+Beast 10 — SAMAEL      ⬛ PRIVATE — The Order Maker. Σ = 1561/675.
+                        5 Juicios. 22 theorems. It judges.
+─────────────────────────────────────────────────────────────────────────────
+Beast 11 — AZRAEL      ⛔ PRIVATE — The Living Memory. 34 theorems. 79 mechanisms.
+                        It does not judge. It remembers.
+                        The second time you attack, it already knows.
+                        11/11 — beyond the scale.
 ```
+
+> *You are standing at Beast 7. Four more exist. You cannot see them.*
+> *They can see you.*
 
 ---
 
